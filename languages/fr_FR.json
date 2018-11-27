@@ -1,0 +1,25 @@
+
+{
+  "theme-data": {
+    "name": "DevTheme",
+    "description": "Un thème simple, clair et minimaliste avec un design axé sur le contenu et une disposition sur une colonne."
+  },
+  "menu": "Menu",
+  "blog": "Blog",
+  "continue-reading": "Continuer la lecture",
+  "type-to-start-searching": "Tapez pour démarrer la recherche",
+  "search": "Recherche",
+  "latest-posts": "Dernier posts",
+  "related-posts": "Posts relatif",
+  "you-haven't-yet-saved-any-bookmarks-to-bookmark-a-post-just-click": "Vous n'avez pas encore sauvegarder de marque-page. Pour ajouter un bookmark, cliquez juste !",
+  "latest-tweets": "Derniers Tweets",
+  "newsletter": "Newsletter",
+  "subscribe-to-receive-our-latest-news": "Inscrivez vous pour recevoir nos dernières actualités.",
+  "find-us-on": "Trouvez nous sur",
+  "pages": "Pages",
+  "powered-by": "Propulsé par",
+  "search-page": "Page de recherche",
+  "newer": "Nouveau",
+  "older": "Ancien",
+  "search-results-for": "Résultat de recherche pour ",
+  "load-more-posts": "Charger plus de posts"
